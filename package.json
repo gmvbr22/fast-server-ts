@@ -1,0 +1,20 @@
+{
+  "name": "fast-server-ts",
+  "version": "1.0.0",
+  "description": "Server baseado em serviços e plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmvbr/fast-server-ts.git"
+  },
+  "keywords": [],
+  "author": "gmvbr <https://github.com/gmvbr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmvbr/fast-server-ts/issues"
+  },
+  "homepage": "https://github.com/gmvbr/fast-server-ts#readme"
+}
